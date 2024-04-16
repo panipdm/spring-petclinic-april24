@@ -1,5 +1,5 @@
 pipeline  {
-  agent  {lavel 'spc'}
+  agent  {label 'spc'}
   stages  {
     stage  ('git'){
 	  steps  {
